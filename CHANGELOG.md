@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-27)
+## Unreleased (2026-08-19)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`746050a`](https://github.com/stdlib-js/stdlib/commit/746050ae2954c91ef631a80df06ef8eefed73ceb) - **chore:** remove unused header _(by Athan Reines)_
 -   [`01a27ec`](https://github.com/stdlib-js/stdlib/commit/01a27ec5dc2458180b2632fe68b4ed8892591ee9) - **feat:** add `stats/base/dists/wald/cdf` [(#9709)](https://github.com/stdlib-js/stdlib/pull/9709) _(by Neeraj Pathak, Athan Reines, Philipp Burckhardt)_
 
 </details>
